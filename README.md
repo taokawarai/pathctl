@@ -7,7 +7,7 @@
 /_/    
 ```
 [![latest-release](https://img.shields.io/github/v/release/taokawarai/pathctl?display_name=tag&sort=semver)](https://github.com/taokawarai/pathctl/releases)
-[![latest-release-including-pre](https://img.shields.io/github/v/release/taokawarai/pathctl?display_name=tag&sort=semver)](https://github.com/taokawarai/pathctl/releases)
+[![latest-release-including-pre](https://img.shields.io/github/v/release/taokawarai/pathctl?display_name=tag&include_prereleases&sort=semver)](https://github.com/taokawarai/pathctl/releases)
 [![license](https://img.shields.io/github/license/taokawarai/pathctl)](https://opensource.org/license/mit/)
 
 # pathctl command
